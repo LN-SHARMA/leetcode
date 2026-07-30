@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LN-SHARMA/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/LN-SHARMA/leetcode/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/LN-SHARMA/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LN-SHARMA/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
