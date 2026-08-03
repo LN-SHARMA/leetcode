@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [1920-build-array-from-permutation](https://github.com/LN-SHARMA/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LN-SHARMA/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/LN-SHARMA/leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/LN-SHARMA/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LN-SHARMA/leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
