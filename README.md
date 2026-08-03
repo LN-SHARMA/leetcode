@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/LN-SHARMA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LN-SHARMA/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1929-concatenation-of-array](https://github.com/LN-SHARMA/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/LN-SHARMA/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/LN-SHARMA/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/LN-SHARMA/leetcode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/0022-generate-parentheses) |
+| [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/LN-SHARMA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LN-SHARMA/leetcode/tree/master/0503-next-greater-element-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
