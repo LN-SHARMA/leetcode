@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/LN-SHARMA/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LN-SHARMA/leetcode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/LN-SHARMA/leetcode/tree/master/3731-find-missing-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LN-SHARMA/leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/LN-SHARMA/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/LN-SHARMA/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
