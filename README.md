@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LN-SHARMA/leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/LN-SHARMA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LN-SHARMA/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LN-SHARMA/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/LN-SHARMA/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/LN-SHARMA/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/LN-SHARMA/leetcode/tree/master/0169-majority-element) |
+| [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
