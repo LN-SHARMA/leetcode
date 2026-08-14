@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/LN-SHARMA/leetcode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/LN-SHARMA/leetcode/tree/master/0412-fizz-buzz) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/LN-SHARMA/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LN-SHARMA/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/LN-SHARMA/leetcode/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/LN-SHARMA/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/LN-SHARMA/leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/LN-SHARMA/leetcode/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/LN-SHARMA/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
