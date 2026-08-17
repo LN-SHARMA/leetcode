@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/LN-SHARMA/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/LN-SHARMA/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LN-SHARMA/leetcode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/LN-SHARMA/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/LN-SHARMA/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/LN-SHARMA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LN-SHARMA/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/LN-SHARMA/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/LN-SHARMA/leetcode/tree/master/0239-sliding-window-maximum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LN-SHARMA/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Pigeonhole Principle
 |  |
@@ -203,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/LN-SHARMA/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LN-SHARMA/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LN-SHARMA/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LN-SHARMA/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
