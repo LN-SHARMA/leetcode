@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/LN-SHARMA/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/LN-SHARMA/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/LN-SHARMA/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LN-SHARMA/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/LN-SHARMA/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
