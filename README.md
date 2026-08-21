@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/LN-SHARMA/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LN-SHARMA/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/LN-SHARMA/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/LN-SHARMA/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/LN-SHARMA/leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/LN-SHARMA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/LN-SHARMA/leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/LN-SHARMA/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/LN-SHARMA/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LN-SHARMA/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -235,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/LN-SHARMA/leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/LN-SHARMA/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/LN-SHARMA/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
