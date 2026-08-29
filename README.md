@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/LN-SHARMA/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/LN-SHARMA/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/LN-SHARMA/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/LN-SHARMA/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/LN-SHARMA/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/LN-SHARMA/leetcode/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/LN-SHARMA/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/LN-SHARMA/leetcode/tree/master/0068-text-justification) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/LN-SHARMA/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/LN-SHARMA/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/LN-SHARMA/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/LN-SHARMA/leetcode/tree/master/0202-happy-number) |
