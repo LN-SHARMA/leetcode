@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/LN-SHARMA/leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/LN-SHARMA/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/LN-SHARMA/leetcode/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LN-SHARMA/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LN-SHARMA/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LN-SHARMA/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/LN-SHARMA/leetcode/tree/master/0011-container-with-most-water) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LN-SHARMA/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
