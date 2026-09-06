@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/LN-SHARMA/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/LN-SHARMA/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/LN-SHARMA/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/LN-SHARMA/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/LN-SHARMA/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/LN-SHARMA/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LN-SHARMA/leetcode/tree/master/0202-happy-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/LN-SHARMA/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LN-SHARMA/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 ## Backtracking
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/LN-SHARMA/leetcode/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/LN-SHARMA/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
