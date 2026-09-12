@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/LN-SHARMA/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LN-SHARMA/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LN-SHARMA/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/LN-SHARMA/leetcode/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/LN-SHARMA/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/LN-SHARMA/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/LN-SHARMA/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/LN-SHARMA/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LN-SHARMA/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/LN-SHARMA/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/LN-SHARMA/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/LN-SHARMA/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/LN-SHARMA/leetcode/tree/master/0070-climbing-stairs) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/LN-SHARMA/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/LN-SHARMA/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
