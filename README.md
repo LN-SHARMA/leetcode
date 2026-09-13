@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/LN-SHARMA/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LN-SHARMA/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/LN-SHARMA/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/LN-SHARMA/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LN-SHARMA/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LN-SHARMA/leetcode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/LN-SHARMA/leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LN-SHARMA/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LN-SHARMA/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/LN-SHARMA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/LN-SHARMA/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/LN-SHARMA/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/LN-SHARMA/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LN-SHARMA/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LN-SHARMA/leetcode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
