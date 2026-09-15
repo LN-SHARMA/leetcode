@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/LN-SHARMA/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/LN-SHARMA/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LN-SHARMA/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/LN-SHARMA/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LN-SHARMA/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/LN-SHARMA/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
