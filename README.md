@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LN-SHARMA/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LN-SHARMA/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/LN-SHARMA/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/LN-SHARMA/leetcode/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/LN-SHARMA/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/LN-SHARMA/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/LN-SHARMA/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/LN-SHARMA/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LN-SHARMA/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LN-SHARMA/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/LN-SHARMA/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/LN-SHARMA/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/LN-SHARMA/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
