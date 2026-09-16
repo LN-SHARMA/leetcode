@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/LN-SHARMA/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/LN-SHARMA/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LN-SHARMA/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/LN-SHARMA/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LN-SHARMA/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -338,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/LN-SHARMA/leetcode/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
