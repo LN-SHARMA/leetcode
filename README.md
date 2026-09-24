@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/LN-SHARMA/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/LN-SHARMA/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LN-SHARMA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/LN-SHARMA/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/LN-SHARMA/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LN-SHARMA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/LN-SHARMA/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/LN-SHARMA/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LN-SHARMA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LN-SHARMA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LN-SHARMA/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LN-SHARMA/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/LN-SHARMA/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/LN-SHARMA/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LN-SHARMA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LN-SHARMA/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LN-SHARMA/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
