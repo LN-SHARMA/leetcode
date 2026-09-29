@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/LN-SHARMA/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/LN-SHARMA/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/LN-SHARMA/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LN-SHARMA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LN-SHARMA/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1383-maximum-performance-of-a-team](https://github.com/LN-SHARMA/leetcode/tree/master/1383-maximum-performance-of-a-team) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/LN-SHARMA/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/LN-SHARMA/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/LN-SHARMA/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LN-SHARMA/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/LN-SHARMA/leetcode/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/LN-SHARMA/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Brainteaser
 |  |
 | ------- |
