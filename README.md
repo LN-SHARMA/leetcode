@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/LN-SHARMA/leetcode/tree/master/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/LN-SHARMA/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/LN-SHARMA/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/LN-SHARMA/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/LN-SHARMA/leetcode/tree/master/0412-fizz-buzz) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LN-SHARMA/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/LN-SHARMA/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LN-SHARMA/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/LN-SHARMA/leetcode/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/LN-SHARMA/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/LN-SHARMA/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/LN-SHARMA/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/LN-SHARMA/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/LN-SHARMA/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/LN-SHARMA/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/LN-SHARMA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/LN-SHARMA/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/LN-SHARMA/leetcode/tree/master/0560-subarray-sum-equals-k) |
