@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/LN-SHARMA/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LN-SHARMA/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/LN-SHARMA/leetcode/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/LN-SHARMA/leetcode/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/LN-SHARMA/leetcode/tree/master/0771-jewels-and-stones) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/LN-SHARMA/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/LN-SHARMA/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/LN-SHARMA/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/LN-SHARMA/leetcode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/LN-SHARMA/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LN-SHARMA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
