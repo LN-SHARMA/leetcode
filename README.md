@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/LN-SHARMA/leetcode/tree/master/0068-text-justification) |
+| [0151-reverse-words-in-a-string](https://github.com/LN-SHARMA/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/LN-SHARMA/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/LN-SHARMA/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LN-SHARMA/leetcode/tree/master/0242-valid-anagram) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/LN-SHARMA/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/LN-SHARMA/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/LN-SHARMA/leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/LN-SHARMA/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/LN-SHARMA/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LN-SHARMA/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/LN-SHARMA/leetcode/tree/master/0283-move-zeroes) |
