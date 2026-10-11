@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LN-SHARMA/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2469-convert-the-temperature](https://github.com/LN-SHARMA/leetcode/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/LN-SHARMA/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/LN-SHARMA/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/LN-SHARMA/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LN-SHARMA/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/LN-SHARMA/leetcode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LN-SHARMA/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/LN-SHARMA/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Brainteaser
 |  |
 | ------- |
