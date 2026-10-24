@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LN-SHARMA/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2409-count-days-spent-together](https://github.com/LN-SHARMA/leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/LN-SHARMA/leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/LN-SHARMA/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/LN-SHARMA/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LN-SHARMA/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/LN-SHARMA/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2409-count-days-spent-together](https://github.com/LN-SHARMA/leetcode/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LN-SHARMA/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/LN-SHARMA/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
