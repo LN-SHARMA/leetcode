@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/LN-SHARMA/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/LN-SHARMA/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1035-uncrossed-lines](https://github.com/LN-SHARMA/leetcode/tree/master/1035-uncrossed-lines) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LN-SHARMA/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/LN-SHARMA/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LN-SHARMA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LN-SHARMA/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/LN-SHARMA/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/LN-SHARMA/leetcode/tree/master/1025-divisor-game) |
+| [1035-uncrossed-lines](https://github.com/LN-SHARMA/leetcode/tree/master/1035-uncrossed-lines) |
 ## Backtracking
 |  |
 | ------- |
@@ -468,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/LN-SHARMA/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1035-uncrossed-lines](https://github.com/LN-SHARMA/leetcode/tree/master/1035-uncrossed-lines) |
 <!---LeetCode Topics End-->
