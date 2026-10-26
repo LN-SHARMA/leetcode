@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/LN-SHARMA/leetcode/tree/master/0133-clone-graph) |
+| [1791-find-center-of-star-graph](https://github.com/LN-SHARMA/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Number Theory
 |  |
 | ------- |
