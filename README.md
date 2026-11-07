@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/LN-SHARMA/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LN-SHARMA/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/LN-SHARMA/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/LN-SHARMA/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/LN-SHARMA/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/LN-SHARMA/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/LN-SHARMA/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/LN-SHARMA/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/LN-SHARMA/leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/LN-SHARMA/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Longest Common Subsequence
