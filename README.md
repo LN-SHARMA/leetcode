@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/LN-SHARMA/leetcode/tree/master/0133-clone-graph) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/LN-SHARMA/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -481,9 +482,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/LN-SHARMA/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/LN-SHARMA/leetcode/tree/master/0141-linked-list-cycle) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/LN-SHARMA/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/LN-SHARMA/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/LN-SHARMA/leetcode/tree/master/1035-uncrossed-lines) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/LN-SHARMA/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
